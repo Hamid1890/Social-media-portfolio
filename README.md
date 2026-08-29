@@ -1,4 +1,4 @@
-# Hi, I'm Hamid Ndossa 
+# Hi, I'm Abdulhamid Ndossa 
 
 ## Social Media Manager | Digital Marketing Enthusiast
 
