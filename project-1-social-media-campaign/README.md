@@ -67,3 +67,13 @@ What's one thing you would like to improve about your social media presence? Tel
 - Audience Research
 - Content Creation
 - Digital Marketing
+
+## Visual Samples
+
+### Social Media Post 1
+
+![Social Media Post 1](social-media-post-1.png)
+
+### Social Media Post 2
+
+![Social Media Post 2](social-media-post-2.png)
